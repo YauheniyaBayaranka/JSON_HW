@@ -1,1 +1,10 @@
-
+{"fields":  
+ {"ID": "1",
+  "Title": "Добавление товара в корзину",
+  "Priority": "high",
+  "Severity": "Major",
+  "Environment": " Iphone 12",
+  "Steps": "{'1': 'Зайти на сайт', '2': 'Найти товар ', '3': 'Добавить в корзину'}",
+  "ExpectedResult": "товар добавлен",
+  "ActualResult":"товар не добавлен"}
+}
