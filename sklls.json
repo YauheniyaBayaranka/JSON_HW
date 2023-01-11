@@ -1,0 +1,14 @@
+
+{ "soft_skills":
+	                                                            { "1": "Communication skills",
+		                                                      "2": "Analytical skills",
+		                                                      "3": "Attention to detail",
+		                                                      "4": "Teamwork",
+		                                                      "5": "Focus on quality",
+		                                                      "6": "Patient work"},
+                                                                   "hard_skills":
+                                                        { "1": "Knowledge of software testing types, methodologies, and techniques",
+		                                          "2": "Familiarity with certain bug tracking and test management tools",
+		                                          "3": "Mobile testing",
+		                                          "4": "Knowledge of a particular programming language"}
+
