@@ -5,6 +5,6 @@
   "Severity": "Major",
   "Environment": " Iphone 12",
   "Steps": "{'1': 'Зайти на сайт', '2': 'Найти товар ', '3': 'Добавить в корзину'}",
-  "ExpectedResult": "това добавлен",
+  "ExpectedResult": "товар добавлен",
   "ActualResult":"товар не добавлен"}
 }
